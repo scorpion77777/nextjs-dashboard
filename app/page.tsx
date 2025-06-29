@@ -41,7 +41,7 @@ export default function Page() {
           />
 
           <Image
-          priority={false} 
+          priority={true} 
             src="/hero-mobile.png"
             width={560}
             height={620}
