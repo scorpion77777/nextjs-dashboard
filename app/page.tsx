@@ -34,8 +34,8 @@ export default function Page() {
           <Image
           priority={false} 
             src="/cell.jpg"
-            width={1000}
-            height={760}
+            width={1200}
+            height={860}
             className="hidden md:block"
             alt="Screenshots of the dashboard project showing desktop version"
           />
